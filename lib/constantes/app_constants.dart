@@ -5,4 +5,3 @@ class AppConstants{
   static const String accesToken = 'pk.eyJ1IjoibmF0YWxpYXJ1aXoyMzE0IiwiYSI6ImNsZmx1bDl4YTA1Z3k0MW85enB5MTEwMmYifQ.bCownj5bzrAV0Wo1Fj-OCw';
 }
 
-
